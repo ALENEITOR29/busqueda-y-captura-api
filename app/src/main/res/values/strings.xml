@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Búsqueda y Captura API</string>
+    <string name="catalog_title">Búsqueda y Captura</string>
+    <string name="catalog_subtitle">Búsqueda y Captura API - Vivo o Muerto</string>
+    <string name="product_image_desc">Imagen del personaje</string>
+    <string name="galaxy_image_desc">Foto de galaxia</string>
+    <string name="default_product_name">Sujeto</string>
+    <string name="default_category">Dimensión C-137</string>
+    <string name="default_price">$0</string>
+    <string name="default_rating">★ 0.0</string>
+    <string name="category_prefix">Especie: %s</string>
+    <string name="products_loaded">Sujetos registrados: %d</string>
+    <string name="error_processing">No se pudieron procesar los datos de recompensa.</string>
+    <string name="error_connection">No se pudo conectar a la base de datos galáctica.</string>
+    <string name="fallback_product_name">Sujeto desconocido</string>
+    <string name="fallback_category">Desconocido</string>
+    <string name="bounty_button">Recompensa Vivo o Muerto</string>
+</resources>
